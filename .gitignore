@@ -140,3 +140,5 @@ backups/*
 requirements.txt
 *model.pt
 # 
+
+data/*
