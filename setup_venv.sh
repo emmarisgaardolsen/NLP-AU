@@ -15,4 +15,4 @@ python -m ipykernel install --user --name=nlp-e23
 
 # Install requirements
 python3 -m pip install --upgrade pip
-pip3 install -r /work/EmmaRisgaardOlsen#9993/NLP-AU/requirements.txt
+pip3 install -r /work/NLP-AU/requirements.txt

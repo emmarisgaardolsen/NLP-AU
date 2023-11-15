@@ -12,5 +12,5 @@ sudo apt-get install python3-venv
 source /work/NLP-AU/nlp-e23/bin/activate
 
 # creating kernel 
-pip install ipykernel
+pip3 install ipykernel
 python3 -m ipykernel install --user --name=nlp-e23
